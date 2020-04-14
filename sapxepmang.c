@@ -1,4 +1,5 @@
 /*This is user1*/ 
+/*This is master1*/ 
 #include <stdio.h>
  
 void NhapMang(int a[], int n){
