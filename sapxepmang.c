@@ -1,4 +1,4 @@
- 
+/*This is user2*/ 
 #include <stdio.h>
  
 void NhapMang(int a[], int n){
